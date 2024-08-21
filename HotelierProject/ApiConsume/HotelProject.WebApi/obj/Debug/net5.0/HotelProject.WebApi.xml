@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HotelProject.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:HotelProject.WebApi.Controllers.AboutController.DeleteAbout(System.Int32)">
+            <summary>
+            silme işlemi başarılı ise sonuç doğru döner
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
